@@ -1,6 +1,6 @@
-#Projet réalisé en Vue.js
+# Projet réalisé en Vue.js
 
-##Pour le visualisé dans un navigateur:
+## Pour le visualisé dans un navigateur:
 - Ouvrir le terminal
 - exécuter la commande: npm install
 - exécuter la commande: npm run dev

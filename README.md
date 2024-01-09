@@ -11,7 +11,7 @@
 ![image](https://github.com/SL-Webdesign/Cours-Vue.js/assets/128183332/04f3b409-d8ea-4ae2-a399-55ee91a34828)
 
 ### Page To-Do
-![image](https://github.com/SL-Webdesign/Cours-Vue.js/assets/128183332/a07e6112-28f6-4276-9ac6-258401fdf0b9)
+![image](https://github.com/SL-Webdesign/Cours-Vue.js/assets/128183332/17f19113-d71f-4e8b-ac48-7afdbcbcd287)
 
 ### Page contact
 ![image](https://github.com/SL-Webdesign/Cours-Vue.js/assets/128183332/c451af18-a89c-47b3-80e0-37dbe41d3f25)
